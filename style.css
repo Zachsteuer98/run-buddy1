@@ -271,13 +271,17 @@ header {
 
 .contact-info {
 display: inline-block;
-margin: 30px;
+vertical-align: top;
+text-align: left;
+margin: 10px;
+width: 410px
+
 }
 
 .info3 {
 display:inline-block;
 vertical-align: middle;
-height: 700px;
+height: 400px;
 margin-bottom:10px;
 }
 
