@@ -164,9 +164,11 @@ header {
   font-size: 55px;
   color: #024e76;
   margin-bottom: 35px;
+  margin: 20px auto;
   padding: 0 100px 20px 100px;
-  display: inline-block;
+  /* display: inline-block; */
   border-bottom: 3px solid;
+  width: max-content;
 }
 
 .primary-border {
@@ -267,28 +269,40 @@ header {
 
 /* changed and added a class, go over during tutor session. need to change font color and place map side by side with contact information */ 
 
-.contact-info3 div {
-  width: 410px;
-  display: inline-block;
-  vertical-align: top;
-  text-align: left;
-  margin: 30px 0 0 60px;
-  color: white;
+.contact-info {
+display: inline-block;
+margin: 30px;
 }
 
-.contact-info3 h3 {
+.info3 {
+display:inline-block;
+vertical-align: middle;
+height: 700px;
+margin-bottom:10px;
+}
+
+.info3 p {
+  /* width: 410px; */
+  /* vertical-align: top; */
+  /* text-align: left; */
+  /* margin: 30px 0 0 60px; */
+  /* color: white; */
+}
+
+.info3 h3 {
   color: #fce138;
   font-size: 32px;
 }
 
-.contact-info3 p, .contact-info address {
-  margin: 20px 0;
-  line-height: 1.5;
+.info3 p, .info3 address {
+  /* margin: 10px 0; */
+  /* line-height: 1.5; */
   font-size: 20px;
   font-style: normal;
+  color: white;
 }
 
-.contact-info3 a {
+.info3 a {
   color: #fce138;
 }
 
