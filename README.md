@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, inc
 Run buddy application made on my PC
 
 ## Purpose
@@ -13,6 +13,8 @@ https://zachsteuer98.github.io/run-buddy1/
 
 ## Contribution
 Made with ❤️ by Zachary Steuer
+
+### ©️2019 Run Buddy, Inc
 
 
 
