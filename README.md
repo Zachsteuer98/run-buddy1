@@ -12,7 +12,7 @@ A website that offers fitness training services.
 https://zachsteuer98.github.io/run-buddy1/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Zachary Steuer
 
 
 
