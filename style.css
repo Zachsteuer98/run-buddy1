@@ -293,7 +293,7 @@ margin-bottom:10px;
   /* color: white; */
 }
 
-.info3 h3 {
+.info3, .contact-form h3 {
   color: #fce138;
   font-size: 32px;
 }
