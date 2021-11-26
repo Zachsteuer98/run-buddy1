@@ -1,4 +1,4 @@
-# run-buddy1
+# Run Buddy Inc.
 Run buddy application made on my PC
 
 ## Purpose
