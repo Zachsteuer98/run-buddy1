@@ -548,6 +548,13 @@ text-shadow:0 0 10px rgba(0, 0, 0, 0.5);
   .contact-info iframe{
     flex: 1 100%;
   }
+
+  .step-img {
+    flex: 0 32%;
+    margin-right: 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
 }
 
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
